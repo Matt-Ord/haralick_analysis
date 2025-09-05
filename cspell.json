@@ -29,7 +29,9 @@
         "trange",
         "tqdm",
         "graycoprops",
-        "graycomatrix"
+        "graycomatrix",
+        "venv",
+        "pycache"
     ],
     "flagWords": [
         "hte",
