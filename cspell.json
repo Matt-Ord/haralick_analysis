@@ -2,7 +2,14 @@
     "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
     "version": "0.2",
     "language": "en",
-    "words": ["Haralick"],
+    "words": [
+        "Haralick",
+        "imageio",
+        "imread",
+        "imshow",
+        "mahotas",
+        "shem"
+    ],
     "ignoreWords": [
         "Phonopy",
         "Wannier",
