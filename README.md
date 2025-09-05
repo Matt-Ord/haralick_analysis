@@ -1,6 +1,6 @@
 # Project Template
 
-View the `my_project` package documentation [here](https://matt-ord.github.io/my_project/).
+View the `haralick_analysis` package documentation [here](https://matt-ord.github.io/haralick_analysis/).
 
 ## Setup
 
