@@ -159,7 +159,6 @@ version = "0.0.1"
 source = { editable = "." }
 dependencies = [
     { name = "imageio" },
-    { name = "mahotas" },
     { name = "matplotlib" },
     { name = "numpy" },
     { name = "scikit-image" },
@@ -177,7 +176,6 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "imageio", specifier = ">=2.37.0" },
-    { name = "mahotas", specifier = ">=1.4.18" },
     { name = "matplotlib", specifier = ">=3.10.6" },
     { name = "numpy", specifier = ">=2.3.2" },
     { name = "scikit-image", specifier = ">=0.25.2" },
@@ -288,15 +286,6 @@ sdist = { url = "https://files.pythonhosted.org/packages/6f/6b/c875b30a1ba490860
 wheels = [
     { url = "https://files.pythonhosted.org/packages/83/60/d497a310bde3f01cb805196ac61b7ad6dc5dcf8dce66634dc34364b20b4f/lazy_loader-0.4-py3-none-any.whl", hash = "sha256:342aa8e14d543a154047afb4ba8ef17f5563baad3fc610d7b15b213b0f119efc", size = 12097, upload-time = "2024-04-05T13:03:10.514Z" },
 ]
-
-[[package]]
-name = "mahotas"
-version = "1.4.18"
-source = { registry = "https://pypi.org/simple" }
-dependencies = [
-    { name = "numpy" },
-]
-sdist = { url = "https://files.pythonhosted.org/packages/f6/71/bf99df8458c0ca05cb9a16f400e66c09b37b15ea124aaa3becb577555cc5/mahotas-1.4.18.tar.gz", hash = "sha256:e6bd2eea4143a24f381b30c64078503cd8ffa20ca493e39ffa29f9d024d9cf8b", size = 1533222, upload-time = "2024-07-17T21:11:56.204Z" }
 
 [[package]]
 name = "markupsafe"

@@ -7,8 +7,9 @@
         "imageio",
         "imread",
         "imshow",
-        "mahotas",
-        "shem"
+        "shem",
+        "viridis",
+        "glcm",
     ],
     "ignoreWords": [
         "Phonopy",
@@ -26,7 +27,9 @@
         "pyproject",
         "scipy",
         "trange",
-        "tqdm"
+        "tqdm",
+        "graycoprops",
+        "graycomatrix"
     ],
     "flagWords": [
         "hte",
